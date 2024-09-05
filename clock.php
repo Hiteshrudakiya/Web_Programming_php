@@ -94,7 +94,7 @@
 			</tr>
 			<tr class="dmy-clock">
 				<th colspan="3"> HOUR</th>
-				<th colspan="4">MINITE</th>
+				<th colspan="4">MINUTE</th>
 				<th colspan="3">SECOND</th>
 			</tr>
 			<tr class="hours" align="center">
